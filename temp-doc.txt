@@ -7,4 +7,4 @@ The copy command was used to copy the files we created in directory - my-first-p
 5.2. Can you explain why, in this case, we did not have to do git init?
 We didn't have to git init because we have git cloned the github directory from the site, which means it is already prepared for the sync, since we already initialized my-first-project.
 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
-Yes, I needed to add them first. Then, I understood that first I used commit and after I used save and closed the txt doc. In order to refresh it I used "atualiza", after saving and closing VS Editor.
+Yes, I needed to add them first and then commit with a name for the present commit - in this case, it is called "atualiza temp-doc.txt".
