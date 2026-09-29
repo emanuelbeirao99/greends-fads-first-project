@@ -2,10 +2,10 @@
 what they believe to be their spare time, by collecting stamps, coins,
 medals, vases, postcards, matchboxes, books, clocks, sport shirts,
 autographs, stones, clay figurines, empty beverage cans, little angels,
-cacti, opera programmes, lighters, pens, owls, music boxes, botles, bonsai
+cacti, opera programmes, lighters, pens, owls, music boxes, bottles, bonsai
 trees, paintings, mugs, pipes, glass obelisks, ceramic duccks, old toys,
 carnival masks, and they probably do so out of something that we might
-call metaphysical angst, perhaps because they cannot bear the idea of
+call metaphysical angst, perhaps because they cannot bear the idea ofgi
 chaos being the one ruler of the universe, which is why, using their
 limited powers and with no divine help, they attempt to impose some order
 on the world, and for a short while they manage it, but only as long as
